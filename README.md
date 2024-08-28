@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/MohammedJasim001/leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
