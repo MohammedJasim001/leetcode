@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/MohammedJasim001/leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/MohammedJasim001/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/MohammedJasim001/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MohammedJasim001/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
