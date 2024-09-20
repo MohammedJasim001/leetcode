@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MohammedJasim001/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2083-three-divisors](https://github.com/MohammedJasim001/leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/MohammedJasim001/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/MohammedJasim001/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MohammedJasim001/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/MohammedJasim001/leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/MohammedJasim001/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Two Pointers
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/MohammedJasim001/leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
