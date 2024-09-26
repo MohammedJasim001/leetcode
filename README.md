@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedJasim001/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/MohammedJasim001/leetcode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MohammedJasim001/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohammedJasim001/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammedJasim001/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
