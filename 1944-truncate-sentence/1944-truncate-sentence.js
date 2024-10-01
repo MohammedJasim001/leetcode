@@ -6,15 +6,13 @@
 var truncateSentence = function(s, k) {
       s=s.split(' ')
     l=''
-    p=0
-    for (i of s){
-        l+=i
-        p++
-        if(p==k){
-            return l
-        }
-        l+=" "
+for(i=0;i<s.length;i++){
+    l+=s[i]
+    if(k-1==i){
+        return l
     }
+    l+=" "
+}
      
 
 };
