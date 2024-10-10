@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/MohammedJasim001/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/MohammedJasim001/leetcode/tree/master/0742-to-lower-case) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
+| [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
+| [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammedJasim001/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
