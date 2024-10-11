@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/MohammedJasim001/leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MohammedJasim001/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/MohammedJasim001/leetcode/tree/master/2556-convert-the-temperature) |
+| [3371-harshad-number](https://github.com/MohammedJasim001/leetcode/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
