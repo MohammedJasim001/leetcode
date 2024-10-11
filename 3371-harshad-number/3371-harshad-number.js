@@ -3,14 +3,7 @@
  * @return {number}
  */
 var sumOfTheDigitsOfHarshadNumber = function(x) {
-      a=0
-    b=x
-    while(b>0){
-        a+=b%10
-        b=Math.floor(b/10)
-    }
-    if(x%a===0){
-        return a
-    }
-    return -1
+  a=x.toString().split('')
+  a= a.reduce((acc,ele)=>acc+parseInt(ele),0)
+  return x%a==0?a:-1
 };
