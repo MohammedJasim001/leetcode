@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MohammedJasim001/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MohammedJasim001/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/MohammedJasim001/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MohammedJasim001/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
 | [2756-buy-two-chocolates](https://github.com/MohammedJasim001/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohammedJasim001/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/MohammedJasim001/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohammedJasim001/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammedJasim001/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
