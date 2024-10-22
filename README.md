@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/MohammedJasim001/leetcode/tree/master/0520-detect-capital) |
+| [0657-robot-return-to-origin](https://github.com/MohammedJasim001/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/MohammedJasim001/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammedJasim001/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
+| [0657-robot-return-to-origin](https://github.com/MohammedJasim001/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
