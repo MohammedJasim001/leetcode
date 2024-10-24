@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MohammedJasim001/leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/MohammedJasim001/leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/MohammedJasim001/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/MohammedJasim001/leetcode/tree/master/0742-to-lower-case) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MohammedJasim001/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/MohammedJasim001/leetcode/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MohammedJasim001/leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MohammedJasim001/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/MohammedJasim001/leetcode/tree/master/2083-three-divisors) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/MohammedJasim001/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
