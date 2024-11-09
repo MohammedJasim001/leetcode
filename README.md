@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/MohammedJasim001/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/MohammedJasim001/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/MohammedJasim001/leetcode/tree/master/3636-check-balanced-string) |
 ## Math
 |  |
 | ------- |
