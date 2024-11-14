@@ -10,7 +10,6 @@ var doesAliceWin = function(s) {
              a+=s[i]
          }
      }
-     return a.length
      if(a.length==0){
          return false
      }
