@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MohammedJasim001/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3451-string-compression-iii](https://github.com/MohammedJasim001/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MohammedJasim001/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/MohammedJasim001/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/MohammedJasim001/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MohammedJasim001/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/MohammedJasim001/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
