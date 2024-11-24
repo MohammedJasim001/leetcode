@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MohammedJasim001/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/MohammedJasim001/leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohammedJasim001/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MohammedJasim001/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3533-snake-in-matrix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MohammedJasim001/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/MohammedJasim001/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/MohammedJasim001/leetcode/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
