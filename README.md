@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/MohammedJasim001/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MohammedJasim001/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MohammedJasim001/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
