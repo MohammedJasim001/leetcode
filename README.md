@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammedJasim001/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohammedJasim001/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3311-ant-on-the-boundary](https://github.com/MohammedJasim001/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/MohammedJasim001/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3330-modify-the-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MohammedJasim001/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/MohammedJasim001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/MohammedJasim001/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/MohammedJasim001/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/MohammedJasim001/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3336-water-bottles-ii](https://github.com/MohammedJasim001/leetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/MohammedJasim001/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MohammedJasim001/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
