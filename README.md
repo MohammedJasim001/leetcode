@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/MohammedJasim001/leetcode/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammedJasim001/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohammedJasim001/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/MohammedJasim001/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/MohammedJasim001/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3330-modify-the-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3330-modify-the-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/MohammedJasim001/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MohammedJasim001/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -291,4 +293,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3330-modify-the-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3330-modify-the-matrix) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
