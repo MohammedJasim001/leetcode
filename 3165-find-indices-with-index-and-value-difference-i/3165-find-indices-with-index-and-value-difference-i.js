@@ -6,14 +6,14 @@
  */
 var findIndices = function(nums, indexDifference, valueDifference) {
    c=[]
-    d=[-1,-1]
+
     for(i=0;i<nums.length;i++){
         for(j=i;j<nums.length;j++){
             if(Math.abs(i-j)>=indexDifference&&Math.abs(nums[i]-nums[j])>=valueDifference){
-                c.push(i,j)
+                return [i,j]
             }
         
         }
     }
-    return c.length>0?c:d
+    return [-1,-1]
 };
