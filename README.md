@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MohammedJasim001/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/MohammedJasim001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/MohammedJasim001/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/MohammedJasim001/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MohammedJasim001/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MohammedJasim001/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/MohammedJasim001/leetcode/tree/master/3429-special-array-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohammedJasim001/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/MohammedJasim001/leetcode/tree/master/3336-water-bottles-ii) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/MohammedJasim001/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/MohammedJasim001/leetcode/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohammedJasim001/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
