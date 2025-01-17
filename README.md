@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MohammedJasim001/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/MohammedJasim001/leetcode/tree/master/0575-distribute-candies) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/MohammedJasim001/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/MohammedJasim001/leetcode/tree/master/0575-distribute-candies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/MohammedJasim001/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
