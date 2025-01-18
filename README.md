@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/MohammedJasim001/leetcode/tree/master/3312-number-of-changing-keys) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MohammedJasim001/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MohammedJasim001/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MohammedJasim001/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/MohammedJasim001/leetcode/tree/master/2507-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/MohammedJasim001/leetcode/tree/master/3221-find-the-peaks) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohammedJasim001/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MohammedJasim001/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Counting
 |  |
 | ------- |
