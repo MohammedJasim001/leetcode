@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MohammedJasim001/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## String
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/MohammedJasim001/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MohammedJasim001/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/MohammedJasim001/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/MohammedJasim001/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sorting
 |  |
 | ------- |
