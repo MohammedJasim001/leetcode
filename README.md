@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohammedJasim001/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
+| [2886-faulty-keyboard](https://github.com/MohammedJasim001/leetcode/tree/master/2886-faulty-keyboard) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2886-faulty-keyboard](https://github.com/MohammedJasim001/leetcode/tree/master/2886-faulty-keyboard) |
 | [3164-last-visited-integers](https://github.com/MohammedJasim001/leetcode/tree/master/3164-last-visited-integers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohammedJasim001/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/MohammedJasim001/leetcode/tree/master/3226-minimum-number-game) |
