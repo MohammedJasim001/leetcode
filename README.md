@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/MohammedJasim001/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/MohammedJasim001/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohammedJasim001/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3164-last-visited-integers](https://github.com/MohammedJasim001/leetcode/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohammedJasim001/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/MohammedJasim001/leetcode/tree/master/2886-faulty-keyboard) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
