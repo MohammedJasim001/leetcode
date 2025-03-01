@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/MohammedJasim001/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/MohammedJasim001/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MohammedJasim001/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohammedJasim001/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohammedJasim001/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/MohammedJasim001/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/MohammedJasim001/leetcode/tree/master/2886-faulty-keyboard) |
 | [3164-last-visited-integers](https://github.com/MohammedJasim001/leetcode/tree/master/3164-last-visited-integers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohammedJasim001/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/MohammedJasim001/leetcode/tree/master/0575-distribute-candies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/MohammedJasim001/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohammedJasim001/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohammedJasim001/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
