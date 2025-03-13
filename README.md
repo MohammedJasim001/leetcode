@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/MohammedJasim001/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MohammedJasim001/leetcode/tree/master/0125-valid-palindrome) |
+| [0299-bulls-and-cows](https://github.com/MohammedJasim001/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0415-add-strings) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MohammedJasim001/leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/MohammedJasim001/leetcode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MohammedJasim001/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/MohammedJasim001/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohammedJasim001/leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
