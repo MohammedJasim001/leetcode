@@ -11,7 +11,5 @@ var hasSameDigits = function (s) {
         s = a
 
     }
-    for (i = 0; i < s.length; i++) {
-        return s[i] == s[i + 1]
-    }
+    return s[0] == s[1]
 };
