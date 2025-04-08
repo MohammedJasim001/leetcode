@@ -3,26 +3,18 @@
  * @return {number}
  */
 var minimumOperations = function(nums) {
- let count = 0; 
-
-    while (true) {
-        let hasDuplicate = false;
-
-        for (let i = 0; i < nums.length; i++) {
-            for (let j = i + 1; j < nums.length; j++) {
-                if (nums[i] === nums[j]) {
-                    hasDuplicate = true;
-                    break;
-                }
-            }
-            if (hasDuplicate) break;
+    count = 0
+  map = new Map()
+    for(i=0;i<nums.length;i++){
+        if(map[nums[i]]==undefined){
+            map[nums[i]]=1
         }
-
-        if (!hasDuplicate) break;
-
-        nums.splice(0, Math.min(3, nums.length));
-        count++; 
+        else{
+            nums.splice(0,3)
+            map = {}
+            count++
+            i = -1
+        }
     }
-
-    return count;
+    return count
 };
