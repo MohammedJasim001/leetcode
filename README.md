@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammedJasim001/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/MohammedJasim001/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
+| [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohammedJasim001/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/MohammedJasim001/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
+| [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/MohammedJasim001/leetcode/tree/master/2502-sort-the-people) |
 | [2650-split-with-minimum-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2650-split-with-minimum-sum) |
