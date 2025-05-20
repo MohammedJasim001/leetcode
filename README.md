@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/MohammedJasim001/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/MohammedJasim001/leetcode/tree/master/1039-find-the-town-judge) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/MohammedJasim001/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/MohammedJasim001/leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1205-defanging-an-ip-address](https://github.com/MohammedJasim001/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammedJasim001/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/MohammedJasim001/leetcode/tree/master/1797-goal-parser-interpretation) |
