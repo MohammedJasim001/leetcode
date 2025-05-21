@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/MohammedJasim001/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/MohammedJasim001/leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/MohammedJasim001/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/MohammedJasim001/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/MohammedJasim001/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/MohammedJasim001/leetcode/tree/master/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohammedJasim001/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/MohammedJasim001/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MohammedJasim001/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/MohammedJasim001/leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
