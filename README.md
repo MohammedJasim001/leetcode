@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MohammedJasim001/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedJasim001/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/MohammedJasim001/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MohammedJasim001/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/MohammedJasim001/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MohammedJasim001/leetcode/tree/master/0169-majority-element) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MohammedJasim001/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohammedJasim001/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/MohammedJasim001/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MohammedJasim001/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MohammedJasim001/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MohammedJasim001/leetcode/tree/master/0048-rotate-image) |
 | [3188-find-champion-i](https://github.com/MohammedJasim001/leetcode/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohammedJasim001/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3330-modify-the-matrix) |
