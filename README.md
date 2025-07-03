@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/MohammedJasim001/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/MohammedJasim001/leetcode/tree/master/1039-find-the-town-judge) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/MohammedJasim001/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/MohammedJasim001/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/MohammedJasim001/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/MohammedJasim001/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/MohammedJasim001/leetcode/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohammedJasim001/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
