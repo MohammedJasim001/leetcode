@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/MohammedJasim001/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/MohammedJasim001/leetcode/tree/master/1039-find-the-town-judge) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MohammedJasim001/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/MohammedJasim001/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MohammedJasim001/leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/MohammedJasim001/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/MohammedJasim001/leetcode/tree/master/0561-array-partition) |
+| [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
