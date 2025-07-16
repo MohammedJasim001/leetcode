@@ -7,7 +7,6 @@ var heightChecker = function (heights) {
     c = [...heights]
     heights.sort((a, b) => a - b)
     for (i = 0; i < heights.length; i++) {
-        c.push(heights[i])
         if (c[i] !== heights[i]) {
             count++
         }
