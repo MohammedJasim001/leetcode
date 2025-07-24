@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/MohammedJasim001/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/MohammedJasim001/leetcode/tree/master/1039-find-the-town-judge) |
 | [1137-height-checker](https://github.com/MohammedJasim001/leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MohammedJasim001/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/MohammedJasim001/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/MohammedJasim001/leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/MohammedJasim001/leetcode/tree/master/1137-height-checker) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
