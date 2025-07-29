@@ -10,9 +10,6 @@ var answerQueries = function (nums, queries) {
         sum = 0
         count = 0
         for (j = 0; j < nums.length; j++) {
-            if (nums[j] > queries[i]) {
-                continue
-            }
             if ((sum + nums[j]) <= queries[i]) {
                 sum += nums[j]
                 count++
