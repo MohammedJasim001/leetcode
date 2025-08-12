@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohammedJasim001/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohammedJasim001/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammedJasim001/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/MohammedJasim001/leetcode/tree/master/1137-height-checker) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MohammedJasim001/leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/MohammedJasim001/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
