@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohammedJasim001/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohammedJasim001/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/1580-shuffle-the-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/MohammedJasim001/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/MohammedJasim001/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohammedJasim001/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
