@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MohammedJasim001/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MohammedJasim001/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MohammedJasim001/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MohammedJasim001/leetcode/tree/master/0268-missing-number) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/MohammedJasim001/leetcode/tree/master/1086-divisor-game) |
 ## Graph
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohammedJasim001/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
