@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MohammedJasim001/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MohammedJasim001/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohammedJasim001/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
 | ------- |
