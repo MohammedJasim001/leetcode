@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/MohammedJasim001/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/MohammedJasim001/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohammedJasim001/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/MohammedJasim001/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
+| [1306-minimum-absolute-difference](https://github.com/MohammedJasim001/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
