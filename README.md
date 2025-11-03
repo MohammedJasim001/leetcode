@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MohammedJasim001/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/MohammedJasim001/leetcode/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammedJasim001/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/MohammedJasim001/leetcode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/MohammedJasim001/leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/MohammedJasim001/leetcode/tree/master/2507-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/MohammedJasim001/leetcode/tree/master/3221-find-the-peaks) |
