@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MohammedJasim001/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/MohammedJasim001/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/MohammedJasim001/leetcode/tree/master/3221-find-the-peaks) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohammedJasim001/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MohammedJasim001/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/MohammedJasim001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/MohammedJasim001/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MohammedJasim001/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
