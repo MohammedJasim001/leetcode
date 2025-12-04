@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/MohammedJasim001/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/MohammedJasim001/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohammedJasim001/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/MohammedJasim001/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohammedJasim001/leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/MohammedJasim001/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/MohammedJasim001/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
