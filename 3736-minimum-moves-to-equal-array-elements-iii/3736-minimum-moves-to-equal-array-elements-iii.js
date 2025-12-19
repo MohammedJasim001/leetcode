@@ -3,11 +3,11 @@
  * @return {number}
  */
 var minMoves = function (nums) {
-    nums.sort((a, b) => b - a)
+    max = Math.max(...nums)
     count = 0
-    for (i = 1; i < nums.length; i++) {
-        for (j = nums[i]; j < nums[0]; j++) {
-            if (j == nums[0]) {
+    for (i = 0; i < nums.length; i++) {
+        for (j = nums[i]; j < max; j++) {
+            if (j == max) {
                 return
             }
             count++
