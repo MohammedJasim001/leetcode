@@ -10,5 +10,5 @@ var removeZeros = function (n) {
             c += n[i]
         }
     }
-    return Number(c)
+    return parseInt(c)
 };
