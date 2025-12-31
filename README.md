@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MohammedJasim001/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohammedJasim001/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3701-compute-alternating-sum](https://github.com/MohammedJasim001/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MohammedJasim001/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/MohammedJasim001/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/MohammedJasim001/leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/MohammedJasim001/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MohammedJasim001/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
