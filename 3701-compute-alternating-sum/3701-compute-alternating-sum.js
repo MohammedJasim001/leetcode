@@ -3,8 +3,8 @@
  * @return {number}
  */
 var alternatingSum = function (nums) {
-    result = nums[0]
-    for (i = 1; i < nums.length; i++) {
+    result = 0
+    for (i = 0; i < nums.length; i++) {
         if (i % 2 == 0) {
             result += nums[i]
         } else {
