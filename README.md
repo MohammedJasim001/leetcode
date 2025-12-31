@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohammedJasim001/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MohammedJasim001/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MohammedJasim001/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohammedJasim001/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MohammedJasim001/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohammedJasim001/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MohammedJasim001/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohammedJasim001/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/MohammedJasim001/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MohammedJasim001/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MohammedJasim001/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MohammedJasim001/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
