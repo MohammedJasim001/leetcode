@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammedJasim001/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/MohammedJasim001/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/MohammedJasim001/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedJasim001/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohammedJasim001/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MohammedJasim001/leetcode/tree/master/0682-baseball-game) |
 | [1195-distribute-candies-to-people](https://github.com/MohammedJasim001/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohammedJasim001/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedJasim001/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/MohammedJasim001/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohammedJasim001/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MohammedJasim001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/MohammedJasim001/leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohammedJasim001/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedJasim001/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
