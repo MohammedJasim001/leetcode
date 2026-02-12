@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/MohammedJasim001/leetcode/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/MohammedJasim001/leetcode/tree/master/3803-count-residue-prefixes) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MohammedJasim001/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohammedJasim001/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/MohammedJasim001/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
