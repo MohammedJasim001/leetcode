@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1528-shuffle-string](https://github.com/MohammedJasim001/leetcode/tree/master/1528-shuffle-string) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohammedJasim001/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/MohammedJasim001/leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/MohammedJasim001/leetcode/tree/master/1168-duplicate-zeros) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/MohammedJasim001/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohammedJasim001/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/MohammedJasim001/leetcode/tree/master/0724-find-pivot-index) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1603-running-sum-of-1d-array](https://github.com/MohammedJasim001/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/MohammedJasim001/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohammedJasim001/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MohammedJasim001/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MohammedJasim001/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohammedJasim001/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
