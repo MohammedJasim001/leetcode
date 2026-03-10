@@ -15,8 +15,8 @@ var minimumIndex = function (capacity, itemSize) {
     for (x in map) {
         if (map[x] < minValue) {
             minValue = map[x]
-            minIndex = Number(x)
+            minIndex = x
         }
     }
-    return minIndex
+    return Number(minIndex)
 };
