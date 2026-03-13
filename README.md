@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MohammedJasim001/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohammedJasim001/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3668-restore-finishing-order](https://github.com/MohammedJasim001/leetcode/tree/master/3668-restore-finishing-order) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/MohammedJasim001/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/MohammedJasim001/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
