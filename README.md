@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/MohammedJasim001/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedJasim001/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/MohammedJasim001/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohammedJasim001/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/MohammedJasim001/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/MohammedJasim001/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohammedJasim001/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedJasim001/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/MohammedJasim001/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/MohammedJasim001/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohammedJasim001/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
