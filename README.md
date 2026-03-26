@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0877-stone-game](https://github.com/MohammedJasim001/leetcode/tree/master/0877-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/MohammedJasim001/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MohammedJasim001/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/MohammedJasim001/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/MohammedJasim001/leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/MohammedJasim001/leetcode/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/MohammedJasim001/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MohammedJasim001/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MohammedJasim001/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/MohammedJasim001/leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/MohammedJasim001/leetcode/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/MohammedJasim001/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/MohammedJasim001/leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/MohammedJasim001/leetcode/tree/master/1086-divisor-game) |
 ## Graph
 |  |
