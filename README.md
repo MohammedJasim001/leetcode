@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/MohammedJasim001/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MohammedJasim001/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1528-shuffle-string](https://github.com/MohammedJasim001/leetcode/tree/master/1528-shuffle-string) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/MohammedJasim001/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/MohammedJasim001/leetcode/tree/master/0682-baseball-game) |
 | [1195-distribute-candies-to-people](https://github.com/MohammedJasim001/leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MohammedJasim001/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohammedJasim001/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedJasim001/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/MohammedJasim001/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
