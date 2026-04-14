@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohammedJasim001/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohammedJasim001/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/MohammedJasim001/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohammedJasim001/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
