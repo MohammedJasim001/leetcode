@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/MohammedJasim001/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MohammedJasim001/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohammedJasim001/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohammedJasim001/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/MohammedJasim001/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MohammedJasim001/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2032-largest-odd-number-in-string](https://github.com/MohammedJasim001/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MohammedJasim001/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/MohammedJasim001/leetcode/tree/master/2756-buy-two-chocolates) |
