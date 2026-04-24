@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MohammedJasim001/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/MohammedJasim001/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedJasim001/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/MohammedJasim001/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/MohammedJasim001/leetcode/tree/master/3221-find-the-peaks) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MohammedJasim001/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/MohammedJasim001/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/MohammedJasim001/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Counting
 |  |
