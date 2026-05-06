@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MohammedJasim001/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-truncate-sentence](https://github.com/MohammedJasim001/leetcode/tree/master/1944-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohammedJasim001/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/MohammedJasim001/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/MohammedJasim001/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MohammedJasim001/leetcode/tree/master/2058-concatenation-of-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/MohammedJasim001/leetcode/tree/master/0724-find-pivot-index) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1603-running-sum-of-1d-array](https://github.com/MohammedJasim001/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/MohammedJasim001/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/MohammedJasim001/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/MohammedJasim001/leetcode/tree/master/3034-points-that-intersect-with-cars) |
