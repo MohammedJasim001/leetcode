@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1528-shuffle-string](https://github.com/MohammedJasim001/leetcode/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/MohammedJasim001/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohammedJasim001/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/MohammedJasim001/leetcode/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedJasim001/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedJasim001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1539-kth-missing-positive-number](https://github.com/MohammedJasim001/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohammedJasim001/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
