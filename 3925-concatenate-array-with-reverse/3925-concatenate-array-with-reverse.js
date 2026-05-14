@@ -3,7 +3,7 @@
  * @return {number[]}
  */
 var concatWithReverse = function (nums) {
-    normalNums = [...nums]
-    reverseNums = [...nums.reverse()]
-    return [...normalNums, ...reverseNums]
+    
+    reverseNums = [...nums].reverse()
+    return [...nums, ...reverseNums]
 };
