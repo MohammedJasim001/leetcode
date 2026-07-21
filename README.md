@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/MohammedJasim001/leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/MohammedJasim001/leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/MohammedJasim001/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MohammedJasim001/leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MohammedJasim001/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/MohammedJasim001/leetcode/tree/master/1528-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohammedJasim001/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
