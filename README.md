@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/MohammedJasim001/leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0859-buddy-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0859-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/MohammedJasim001/leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/MohammedJasim001/leetcode/tree/master/1044-find-common-characters) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MohammedJasim001/leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/MohammedJasim001/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0859-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/MohammedJasim001/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/MohammedJasim001/leetcode/tree/master/1039-find-the-town-judge) |
