@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/MohammedJasim001/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/MohammedJasim001/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammedJasim001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-furthest-point-from-origin](https://github.com/MohammedJasim001/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/MohammedJasim001/leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MohammedJasim001/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/MohammedJasim001/leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammedJasim001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohammedJasim001/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/MohammedJasim001/leetcode/tree/master/3336-water-bottles-ii) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/MohammedJasim001/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/MohammedJasim001/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohammedJasim001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/MohammedJasim001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/MohammedJasim001/leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MohammedJasim001/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
