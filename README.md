@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/MohammedJasim001/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MohammedJasim001/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3731-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MohammedJasim001/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohammedJasim001/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MohammedJasim001/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/MohammedJasim001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohammedJasim001/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/MohammedJasim001/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohammedJasim001/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3668-restore-finishing-order](https://github.com/MohammedJasim001/leetcode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MohammedJasim001/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohammedJasim001/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3803-count-residue-prefixes](https://github.com/MohammedJasim001/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MohammedJasim001/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
