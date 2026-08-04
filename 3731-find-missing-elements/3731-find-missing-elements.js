@@ -3,9 +3,10 @@
  * @return {number[]}
  */
 var findMissingElements = function (nums) {
-    nums = nums.sort((a, b) => a - b)
+    const max = Math.max(...nums)
+    const min = Math.min(...nums)
     const result = []
-    for (i = nums[0]; i < nums[nums.length - 1]; i++) {
+    for (i = min; i < max; i++) {
         if (!nums.includes(i)) {
             result.push(i)
         }
