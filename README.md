@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/MohammedJasim001/leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/MohammedJasim001/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedJasim001/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3908-valid-digit-number](https://github.com/MohammedJasim001/leetcode/tree/master/3908-valid-digit-number) |
 ## Simulation
 |  |
 | ------- |
