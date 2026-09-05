@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/MohammedJasim001/leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedJasim001/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/MohammedJasim001/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3904-smallest-stable-index-ii](https://github.com/MohammedJasim001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/MohammedJasim001/leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/MohammedJasim001/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/MohammedJasim001/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3904-smallest-stable-index-ii](https://github.com/MohammedJasim001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
