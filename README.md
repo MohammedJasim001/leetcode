@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/MohammedJasim001/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3904-smallest-stable-index-ii](https://github.com/MohammedJasim001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/MohammedJasim001/leetcode/tree/master/3917-count-indices-with-opposite-parity) |
+| [4020-elevator-requests-i](https://github.com/MohammedJasim001/leetcode/tree/master/4020-elevator-requests-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohammedJasim001/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/MohammedJasim001/leetcode/tree/master/3838-weighted-word-mapping) |
+| [4020-elevator-requests-i](https://github.com/MohammedJasim001/leetcode/tree/master/4020-elevator-requests-i) |
 ## Number Theory
 |  |
 | ------- |
