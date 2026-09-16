@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MohammedJasim001/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohammedJasim001/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/MohammedJasim001/leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1528-shuffle-string](https://github.com/MohammedJasim001/leetcode/tree/master/1528-shuffle-string) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/MohammedJasim001/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammedJasim001/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MohammedJasim001/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MohammedJasim001/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MohammedJasim001/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MohammedJasim001/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/MohammedJasim001/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/MohammedJasim001/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohammedJasim001/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
