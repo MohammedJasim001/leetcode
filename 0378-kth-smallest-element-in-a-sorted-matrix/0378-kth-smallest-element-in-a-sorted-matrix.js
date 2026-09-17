@@ -4,5 +4,5 @@
  * @return {number}
  */
 var kthSmallest = function (matrix, k) {
-    return matrix.flat(2).sort((a, b) => a - b)[k - 1]
+    return matrix.flat().sort((a, b) => a - b)[k - 1]
 };
