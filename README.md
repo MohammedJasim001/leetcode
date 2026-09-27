@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MohammedJasim001/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/MohammedJasim001/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0820-short-encoding-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0877-stone-game](https://github.com/MohammedJasim001/leetcode/tree/master/0877-stone-game) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/MohammedJasim001/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/MohammedJasim001/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/MohammedJasim001/leetcode/tree/master/0812-rotate-string) |
+| [0820-short-encoding-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0859-buddy-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0859-buddy-strings) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/MohammedJasim001/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/MohammedJasim001/leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/MohammedJasim001/leetcode/tree/master/0782-jewels-and-stones) |
+| [0820-short-encoding-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-unique-morse-code-words](https://github.com/MohammedJasim001/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/MohammedJasim001/leetcode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/MohammedJasim001/leetcode/tree/master/0888-fair-candy-swap) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0820-short-encoding-of-words](https://github.com/MohammedJasim001/leetcode/tree/master/0820-short-encoding-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MohammedJasim001/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
