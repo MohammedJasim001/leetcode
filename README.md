@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/MohammedJasim001/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0877-stone-game](https://github.com/MohammedJasim001/leetcode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/MohammedJasim001/leetcode/tree/master/0888-fair-candy-swap) |
+| [0908-smallest-range-i](https://github.com/MohammedJasim001/leetcode/tree/master/0908-smallest-range-i) |
 | [0941-sort-array-by-parity](https://github.com/MohammedJasim001/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/MohammedJasim001/leetcode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/MohammedJasim001/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/MohammedJasim001/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/MohammedJasim001/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/MohammedJasim001/leetcode/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/MohammedJasim001/leetcode/tree/master/0908-smallest-range-i) |
 | [1086-divisor-game](https://github.com/MohammedJasim001/leetcode/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/MohammedJasim001/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MohammedJasim001/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
