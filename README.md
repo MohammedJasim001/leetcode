@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-count-residue-prefixes](https://github.com/MohammedJasim001/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/MohammedJasim001/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/MohammedJasim001/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Math
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohammedJasim001/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/MohammedJasim001/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Recursion
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohammedJasim001/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/MohammedJasim001/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/MohammedJasim001/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
