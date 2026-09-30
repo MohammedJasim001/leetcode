@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MohammedJasim001/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MohammedJasim001/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MohammedJasim001/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/MohammedJasim001/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0299-bulls-and-cows](https://github.com/MohammedJasim001/leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohammedJasim001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MohammedJasim001/leetcode/tree/master/0383-ransom-note) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MohammedJasim001/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MohammedJasim001/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MohammedJasim001/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/MohammedJasim001/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/MohammedJasim001/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MohammedJasim001/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MohammedJasim001/leetcode/tree/master/0268-missing-number) |
