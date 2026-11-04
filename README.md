@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/MohammedJasim001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/MohammedJasim001/leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [4020-elevator-requests-i](https://github.com/MohammedJasim001/leetcode/tree/master/4020-elevator-requests-i) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MohammedJasim001/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4112-maximize-expression-of-three-elements) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-count-residue-prefixes](https://github.com/MohammedJasim001/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/MohammedJasim001/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/MohammedJasim001/leetcode/tree/master/3866-first-unique-even-element) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MohammedJasim001/leetcode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MohammedJasim001/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/MohammedJasim001/leetcode/tree/master/4107-find-missing-elements) |
 ## Enumeration
